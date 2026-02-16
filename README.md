@@ -1,4 +1,4 @@
-eacock: Reach Your Dream 🦚
+Peacock: Reach Your Dream 🦚
 
 <p align='center'>
 <img src='assets/logo.png' width='200' alt='Peacock Logo'>
