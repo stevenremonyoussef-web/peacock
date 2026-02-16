@@ -84,7 +84,7 @@ Visual Excellence: A premium feel that respects the artist's journey.
 👤 Silvia Milad
 
 👤 Rawan Rekapy
-
+project plan 
 week 1
 
 Search & Discovery
