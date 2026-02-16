@@ -80,4 +80,3 @@ Compiling the definitive Brand Book and exporting the final asset kit.
 
 "To bridge the gap between human talent and digital intelligence through iconic design."
 
-Follow the journey: stevenremonyoussef-web
