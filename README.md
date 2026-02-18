@@ -1,116 +1,69 @@
-Peacock: Reach Your Dream 🦚
+Peacock
 
-<p align='center'>
-<img src='assets/logo.png' width='200' alt='Peacock Logo'>
-</p>
-
-📋 Table of Contents
-
-About the Brand
-
-The Core Idea
-
-The Problem We Solve
-
-Brand Message & Values
-
-Competitor Analysis
-
-Conceptual Customer Experience
+Reach Your Dream - The First AI-Powered Casting Platform in the Middle East
 
 Team Members
 
-✨ About the Brand
+Steven Remon (Leader)
 
-Why the name "Peacock"?
-The peacock is nature's ultimate performer. During mating season, the male spreads his tail to showcase his health and uniqueness, and the female selects the most distinguished one. This perfectly mirrors the relationship between an Actor and a Production Company.
+Silvia Milad
 
-Our brand reflects Elegance, Distinction, and Professionalism, serving as a unique bridge in the Egyptian and Arab markets.
+Rawan Rekapy
 
-💡 The Core Idea
+Ramzy
 
-We aim to simplify the casting experience. We empower aspiring actors to secure their screen debuts through a platform designed for:
+Instructor
 
-Simple 🟢
+Dr. Mostafa Thabet
 
-Professional 💼
+Project Overview
 
-Elegant ✨
+Peacock is an innovative digital platform designed to revolutionize the traditional casting process in Egypt and the Arab world. By utilizing Artificial Intelligence, the project aims to solve the chronic issues of traditional casting offices, such as extreme overcrowding, health risks, and lack of transparency. The project presents a sophisticated "Digital Bridge" where actors can showcase their unique talents (symbolized by the Peacock's feathers) and production houses can discover the perfect fit for their artistic works in a professional, safe, and elegant environment.
 
-Progressive 🚀
+Project Objectives
 
-⚠️ The Problem We Solve
+Digital Transformation: Moving the casting process from physical, crowded offices to a seamless AI-driven digital platform.
 
-Traditional casting offices often face extreme crowding, especially before the Ramadan season. This leads to:
+Safety & Professionalism: Eliminating health risks like fainting and suffocation by providing a remote, organized selection system.
 
-Health Risks: Fainting and suffocation due to poor ventilation in crowded offices.
+Fair Opportunity: Preventing fraud and exploitation by providing a trusted, direct channel between talent and producers.
 
-Inefficiency: Manual submissions and huge time/effort loss for both actors and casting directors.
+Efficiency: Saving time and effort for production houses through smart AI filtering based on specific project requirements.
 
-Lack of Tech Integration: Minimal use of AI or modern digital filtering to find the right talent quickly.
+Project Scope
 
-Peacock provides a modern, safe, and tech-driven alternative to ensure talent is discovered without the chaos.
+Identity Design: Developing a premium visual identity including the Master Logo, Wordmark, and Iconography.
 
-🎯 Brand Message & Values
+Brand Strategy: Defining the brand's unique positioning (The Peacock Metaphor) and competitive edge.
 
-"Building healthy relationships between every actor and production company to provide continuous job opportunities in the field."
+Visual Research: Conducting deep market audits and moodboarding to align with cinematic luxury.
 
-🔍 Competitor Analysis
+Digital Mockups: Designing the user interface (UI) for the mobile app and web platform.
 
-We analyzed the market to ensure Peacock stands out. Key competitors include:
+Brand Guidelines: Creating a comprehensive Brand Book that defines the usage rules and visual standards.
 
-Cast Me Now: Uses a blue theme to evoke tranquility and trust, inspired by the filmmaking clapperboard.
+Final Deliverable: A complete Visual Identity System and Brand Strategy Book for the "Peacock" platform, including all digital and print assets.
 
-Cast It Systems: Uses purple for creativity and luxury, with a logo inspired by a searchlight "C".
+Project Plan (5 Weeks)
 
-Backstage: Focuses on theatrical wings and negative space in its branding.
+Week 1 - Search & Discovery
 
-Peacock differentiates itself by focusing on the "Showcase" aspect and utilizing modern UI/UX to streamline the talent discovery journey.
+Conducting a competitive visual audit and curating aesthetic moodboards to define the "Luxury Tech" direction.
 
-🎭 Conceptual Customer Experience
+Week 2 - Concept & Sketching
 
-We offer an experience distinguished by:
+Translating the Peacock metaphor into manual sketches and exploring geometric harmony for the core symbol.
 
-Digital First: No more physical crowding.
+Week 3 - Digital Execution
 
-Smart Filtering: Helping production companies find the exact match.
+Vector refinement using professional design tools, grid alignment, and testing bilingual (Arabic/English) typography.
 
-Visual Excellence: A premium feel that respects the artist's journey.
+Week 4 - System Expansion
 
-👥 Team Members
+Designing high-fidelity mockups for digital platforms, social media kits, and corporate stationery layouts.
 
-👤 Steven Remon
+Week 5 - Delivery & Guidelines
 
-👤 Silvia Milad
+Finalizing the definitive Brand Book and exporting the final high-resolution identity asset kit for implementation.
 
-👤 Rawan Rekapy
-project plan 
-week 1
-
-Search & Discovery
-
-Competitive visual audit, curating moodboards, and aesthetic research.
-
-Week 2
-
-Concept & Sketching
-
-Core symbol sketching, geometric exploration, and logo brainstorming.
-
-Week 3
-
-Digital Execution
-
-Vector refinement (Adobe Illustrator), grid alignment, and font testing.
-
-Week 4
-
-System Expansion
-
-Creating digital mockups, secondary patterns, and social media layouts.
-
-Week 5
-
-Delivery & Guidelines
-
-Compiling the definitive Brand Book and exporting the final asset kit.
+©
