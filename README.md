@@ -66,4 +66,4 @@ Week 5 - Delivery & Guidelines
 
 Finalizing the definitive Brand Book and exporting the final high-resolution identity asset kit for implementation.
 
-©
+
